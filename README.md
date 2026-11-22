@@ -1,2 +1,5 @@
-# astral-atlas-site
-Astral Atlas static website. HTML, CSS, and JavaScript only. No build step.
+# Astral Atlas
+
+Static site. Open index.html or upload this folder.
+
+No TypeScript. No build step. Upload these files as they are.
